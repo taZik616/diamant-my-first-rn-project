@@ -1,0 +1,7 @@
+export * from './About'
+export * from './Contacts'
+export * from './Services'
+export * from './PayAndDelivery'
+export * from './HelpfulInfo'
+export * from './HelpfulInfoAdd'
+export * from './DetailPost'
